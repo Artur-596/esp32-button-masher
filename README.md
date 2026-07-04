@@ -2,7 +2,7 @@
 An embedded systems project featuring a high-speed button-mashing game built on the ESP32. Demonstrates hardware debouncing, real-time input handling, and state management.
 
 Took a good 7 hours as it was my first real hardware related project.
-My code is still messy so i'm sure others trying to recreate this might do a better job doing so, however i've still left my code in this repo.
+My code is still messy so i'm sure others trying to recreate this might do a better job doing so, however i've still left my code in this repo which includes the arduino ide file (.ino) and raw c++ file (cpp).
 
 ## Components Used: 
   - breadboard
