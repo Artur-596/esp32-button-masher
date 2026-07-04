@@ -45,8 +45,6 @@ void loop() {
     if (reading != lastState){
       if (reading == LOW){
         score++;
-        Serial.println("pressed!");
-        Serial.println(score);
         lastBounce = millis();
         ;
       }
