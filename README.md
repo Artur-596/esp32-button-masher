@@ -22,7 +22,7 @@ component kit - [amazon](https://www.amazon.co.uk/Miuzei-Breadboard-Compatible-R
 | **Button** | GPIO 4 (Example) | Internal Pull-up / None |
 | **Red LED** | GPIO 12 (Example) | 220 Ω |
 | **Blue LED** | GPIO 14 (Example) | 320 Ω |
-| **Green LED** | GPIO 27 (Example) | 220 Ω |
+| **Green LED** | GPIO 27 (Example) | 320 Ω |
 
 ## Resources Used/Created
   - Wokwi project used to plan: https://wokwi.com/projects/468654708660502529
