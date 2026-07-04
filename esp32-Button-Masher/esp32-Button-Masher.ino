@@ -11,7 +11,6 @@ int lastState = HIGH;
 
 void setup() {
   Serial.begin(115200);
-  Serial.println("Hello, ESP32!");
 
   pinMode(devicePin1, OUTPUT); // sets the pin to output
   pinMode(devicePin2, OUTPUT);
@@ -45,8 +44,6 @@ void loop() {
     if (reading != lastState){
       if (reading == LOW){
         score++;
-        Serial.println("pressed!");
-        Serial.println(score);
         lastBounce = millis();
         ;
       }
